@@ -23,7 +23,7 @@ git clone https://github.com/FreeRTOS/FreeRTOS.git --recurse-submodules
 ```
 Using SSH:
 ```
-git clone git@github.com:FreeRTOS/FreeRTOS.git --recurse-submodules
+git clone git@github.com:sexjun/FreeRTOS.git --recurse-submodules
 ```
 
 If you have downloaded the repo without using the `--recurse-submodules` argument, you need to run:
